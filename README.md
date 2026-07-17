@@ -9,7 +9,7 @@
 [![status](https://img.shields.io/badge/status-GR%C3%81TIS-ffb703?style=for-the-badge)](https://pauta.paulocodex.com)
 [![Usar grátis](https://img.shields.io/badge/Usar_gr%C3%A1tis-fb5607?style=for-the-badge)](https://pauta.paulocodex.com)
 
-<img src="https://paulocodex.com/products/pauta-shot.png" alt="Pauta — Analista de Roteiro" width="820" />
+<img src="https://paulocodex.com/products/pauta-shot.jpg" alt="Pauta — Analista de Roteiro" width="820" />
 
 </div>
 
@@ -29,10 +29,20 @@ Pauta é um estúdio de conteúdo com IA pra quem já tem método próprio e pre
 ## 📸 Telas
 
 <div align="center">
-<img src="https://paulocodex.com/products/pauta-shot.png" alt="Analista de Roteiro" width="49%" />
-<img src="https://paulocodex.com/products/pauta-2.png" alt="Gerador de Carrossel" width="49%" />
-<img src="https://paulocodex.com/products/pauta-3.png" alt="Mapa de Mercado" width="49%" />
+
+<img src="https://paulocodex.com/products/pauta-shot.jpg" alt="Analista de Roteiro — nota + reescrita" width="49%" />
+<img src="https://paulocodex.com/products/pauta-2.jpg" alt="Gerador de Carrossel — slide a slide" width="49%" />
+<img src="https://paulocodex.com/products/pauta-3.jpg" alt="Ideias & Ângulos — 3 ângulos com mini-roteiro" width="49%" />
+<img src="https://paulocodex.com/products/pauta-4.jpg" alt="Calendário — plano de conteúdo dia a dia" width="49%" />
+<img src="https://paulocodex.com/products/pauta-5.jpg" alt="Meus roteiros — tudo salvo, reabrível e copiável" width="49%" />
+
 </div>
+
+> Carrossel completo com todas as telas em **[paulocodex.com/p/pauta](https://paulocodex.com/p/pauta)**.
+
+## 🔒 Privacidade
+
+Conta com **exclusão total (LGPD)**: dá pra apagar cada roteiro e a conta inteira (dados + histórico) direto no app. Cabeçalhos de segurança (CSP, HSTS) e proteção de abuso em todas as requisições.
 
 ## 🥷 O mascote
 
