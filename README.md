@@ -34,7 +34,13 @@ Pauta é um estúdio de conteúdo com IA pra quem já tem método próprio e pre
 <img src="https://paulocodex.com/products/pauta-2.jpg" alt="Gerador de Carrossel — slide a slide" width="49%" />
 <img src="https://paulocodex.com/products/pauta-3.jpg" alt="Ideias & Ângulos — 3 ângulos com mini-roteiro" width="49%" />
 <img src="https://paulocodex.com/products/pauta-4.jpg" alt="Calendário — plano de conteúdo dia a dia" width="49%" />
+<img src="https://paulocodex.com/products/pauta-7.jpg" alt="Mapa de Mercado — o que satura e os buracos" width="49%" />
 <img src="https://paulocodex.com/products/pauta-5.jpg" alt="Meus roteiros — tudo salvo, reabrível e copiável" width="49%" />
+<img src="https://paulocodex.com/products/pauta-8.jpg" alt="Criar conta — grátis, sem cartão" width="49%" />
+
+<br />
+
+<img src="https://paulocodex.com/products/pauta-6.jpg" alt="Pauta no celular — layout mobile (WCAG 2.2)" width="32%" />
 
 </div>
 
