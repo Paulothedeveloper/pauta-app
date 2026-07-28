@@ -6,7 +6,7 @@
 
 **Estúdio de conteúdo com IA pra criadores**
 
-[![status](https://img.shields.io/badge/status-EM%20DESENVOLVIMENTO-ffb703?style=for-the-badge)](https://pauta.paulocodex.com)
+[![status](https://img.shields.io/badge/status-GR%C3%81TIS-ffb703?style=for-the-badge)](https://pauta.paulocodex.com)
 [![Usar grátis](https://img.shields.io/badge/Usar_gr%C3%A1tis-fb5607?style=for-the-badge)](https://pauta.paulocodex.com)
 
 <img src="https://paulocodex.com/products/pauta-shot.jpg" alt="Pauta — Analista de Roteiro" width="820" />
